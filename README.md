@@ -1,16 +1,20 @@
-## Hi there 👋
+## Ogan Ozsoy, PhD 👋
+#### Physicist, 🇨🇦
 
-<!--
-**oozsoy/oozsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=oozsoy&color=green)
 
-Here are some ideas to get you started:
+Welcome to my github profile! I am a [Juan de la Cierva](https://en.wikipedia.org/wiki/Juan_de_la_Cierva) Research Fellow at the Institute of Theoretical Physics, Madrid. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research thus far is leaned towards the intersection of particle physics and cosmology. In this context, I am broadly interested in the time evolution of particles (Quantum Fields) in the early universe and the impact this dynamics may impart on the cosmological observables, to shed some light on fundamental constitiuents of the cosmos. From a more practical perspective, I am trying to build robust mathematical models that make interesting predictions and looking new ways to test these models through experimental probes. Some of the exciting topics that I explored in this context include supersymmetry, dark matter, inflation and gravitational waves. 
+
+You can follow my physics research via: [inspire-hep](https://inspirehep.net/authors/1297330?ui-citation-summary=true)
+
+As per my interest in predicting things, I have been recently diving deep into Machine Learning (ML) Algorithms. A particular area I am that I am curios about in this context is analyzing time ordered data: time-series analysis and forecasting methods with classical learning algorithms (SARIMA,ETS), as well as more advanced methods such as Prophet and Deep Learning.  I am currently focusing on problems related to financial time-series. In this direction: 
+
+- 💻 I’m currently learning Financial Engineering methods in Python: Financial Analysis, Portfolio Optimization, CAPM and Algorithmic Trading methods.
+- 🔭 I’m currently working on a bidding strategy optimization project in the US power markets.
+
+I am always keen to collaborate on physics or time-series related data science projects, feel free to drop me a message via:
+
+- 📫 Contact: [oganozsoy@gmail.com](oganozsoy@gmail.com) or [ogan.ozsoy@csic.es](ogan.ozsoy@csic.es)
+

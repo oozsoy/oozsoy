@@ -1,5 +1,5 @@
 ## Ogan Ozsoy, PhD 👋
-#### Physicist, 🇨🇦
+#### Physicist 🇨🇦
 
 ![](https://komarev.com/ghpvc/?username=oozsoy&color=green)
 

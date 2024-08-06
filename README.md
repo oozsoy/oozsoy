@@ -11,8 +11,10 @@ You can follow my physics research via: [inspire-hep](https://inspirehep.net/aut
 
 As per my interest in predicting things, I have been recently diving deep into Machine Learning (ML) Algorithms. A particular area that I am curios about in this context is analyzing and understanding time ordered data: time-series analysis and forecasting methods with classical learning algorithms (SARIMA,ETS), as well as more advanced methods such as Prophet and Deep Learning. I am currently focusing on problems related to financial time-series. In this direction: 
 
-- 💻 I’m currently learning Financial Engineering methods in Python: Financial Analysis, Portfolio Optimization, CAPM and Algorithmic Trading methods.
-- 🔭 I’m currently working on a bidding strategy optimization project in the US power markets.
+- 🔭 I’m currently working two main projects:
+
+  1. Deep Learning for Portfolio Optimization: [arXiv:2005.13665](https://arxiv.org/abs/2005.13665)
+  2. Bidding Strategy Optimization in the US power markets.
 
 I am always keen to collaborate on physics or time-series related data science projects, feel free to drop me a message via:
 

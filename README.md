@@ -9,14 +9,7 @@ My research thus far is leaned towards the intersection of particle physics and 
 
 You can follow my physics research via: [inspire-hep](https://inspirehep.net/authors/1297330?ui-citation-summary=true)
 
-As per my interest in predicting things, I have been recently diving deep into Machine Learning (ML) Algorithms. A particular area that I am curios about in this context is analyzing and understanding time ordered data: time-series analysis and forecasting methods with classical learning algorithms (SARIMA,ETS), as well as more advanced methods such as Prophet and Deep Learning. I am currently focusing on problems related to financial time-series. In this direction: 
+Recently, my explorations on stocahstic dynamics of fields in the early universe have made me develop an interest in the analogue sysmtem studied in Quantitative Finance. 
+On the other hand, as per my interest in predicting things, I have been recently exploring Machine Learning (ML) algorithms. A particular venue that I am curios about in this context is analyzing and understanding time ordered data: time-series analysis and forecasting methods with learning algorithms. 
 
-- 🔭 I’m currently working two main projects:
-
-  1. Deep Learning for Portfolio Optimization: [arXiv:2005.13665](https://arxiv.org/abs/2005.13665)
-  2. Bidding Strategy Optimization in the US power markets.
-
-I am always keen to collaborate on physics or time-series related data science projects, feel free to drop me a message via:
-
-- 📫 Contact: [oganozsoy@gmail.com](oganozsoy@gmail.com) or [ogan.ozsoy@csic.es](ogan.ozsoy@csic.es)
-
+I occasionally discuss topics that I find interesting in Statistics, Mathematical Finance and ML in my [blog](https://oozsoy.github.io/). I will also share some of the projects that I have been developing there.
